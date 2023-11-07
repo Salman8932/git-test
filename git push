@@ -1,0 +1,23 @@
+[33mcommit 02145c1af83a4e2289c6eb39b3e033adfa114f23[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Salman8932 <keepitsimpleandgreat@gmail.com>
+Date:   Tue Nov 7 00:01:10 2023 +0800
+
+    Modified hello_world.txt
+
+[33mcommit b5f74cc66cf80b5f5049df3c0d74e51a1aa8c9d6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Salman8932 <keepitsimpleandgreat@gmail.com>
+Date:   Mon Nov 6 23:32:42 2023 +0800
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 444f026769a62734d99ddc3715317b1dcabffa05[m
+Author: Salman8932 <keepitsimpleandgreat@gmail.com>
+Date:   Mon Nov 6 23:27:23 2023 +0800
+
+    Add hello_world.txt
+
+[33mcommit 5529887e3ca341f268d670cfd89bad1b9ad9894a[m
+Author: Salman8932 <99400024+Salman8932@users.noreply.github.com>
+Date:   Mon Nov 6 23:22:57 2023 +0800
+
+    Initial commit
